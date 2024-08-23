@@ -1,0 +1,12 @@
+{
+  "name": "@workspace/module-contrived",
+  "version": "1.0.0",
+  "description": "",
+  "main": "entrypoint.js",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "@workspace/module-referenced":"workspace:*"
+  }
+}

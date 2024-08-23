@@ -1,0 +1,10 @@
+{
+  "name": "@workspace/module-referenced",
+  "version": "1.0.0",
+  "description": "",
+  "main": "entrypoint.js",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {}
+}
